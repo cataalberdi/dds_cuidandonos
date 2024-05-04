@@ -2,5 +2,5 @@
 
 Integrantes: 
 
-Candela Belen Lavia
-Catalina Alberdi
+* Candela Belen Lavia
+* Catalina Alberdi
